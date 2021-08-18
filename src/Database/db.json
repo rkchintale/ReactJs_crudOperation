@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashok Narote",
+      "username": "ashoknarote",
+      "mail": "ashoknarote@gmail.com",
+      "mobile": "9320202020",
+      "address": "India"
+    },
+    {
+      "id": 2,
+      "name": "Goryanath ",
+      "username": "gorakhnath",
+      "mail": "gorakhnath@gmail.com",
+      "mobile": "9343232020",
+      "address": "Sri lanka"
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "rohitsharma",
+      "mail": "rohitsharma@gmail.com",
+      "mobile": "9404746077",
+      "address": "india",
+      "id": 3
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "Viratkohli",
+      "mail": "Viratkohli@gmail.com",
+      "mobile": "8995540414",
+      "address": "Sri lanka",
+      "id": 4
+    },
+    {
+      "name": "MS dhoni",
+      "username": "msdhoni",
+      "mail": "msdhoni@gmail.com",
+      "mobile": "9895464585",
+      "address": "India",
+      "id": 5
+    }
+  ]
+}
